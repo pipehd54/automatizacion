@@ -42,8 +42,8 @@ def enviar_email(destinatario, asunto, cuerpo, remitente=None, password=None):
 
 if __name__ == "__main__":
     # Puedes definir aquí el remitente y password o usar variables de entorno
-    remitente = "timotedaza@gmail.com"  # Cambia por tu correo real
-    password = "uxut mppd amio bvem"  # Cambia por tu contraseña de aplicación real
+    remitente = "email_aqui"  # Cambia por tu correo real
+    password = "contrasena_aqui"  # Cambia por tu contraseña de aplicación real
     destinatario = 'pipetimoty@gmail.com'
     asunto = 'Esto es un mensaje automatizado.'
     cuerpo = '''
