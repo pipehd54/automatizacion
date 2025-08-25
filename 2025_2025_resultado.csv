@@ -1,0 +1,7 @@
+nombre,pais,rol,edad,telefono,es_familia,generacion,mayor_de_edad
+Andres,Colombia,Hijo,20,3194971221,True,Gen Z,True
+Carolina,USA,Amiga,16,1234567895,False,Gen Z,False
+Miguel,Colombia,Amigo,21,9876543217,False,Gen Z,True
+Rita,Mexico,Amiga,23,1478523690,False,Gen Z,True
+Saul,Colombia,Padre,55,3214597567,True,Millenial,True
+Ofelia,Colombia,Madre,49,7891234546,True,Millenial,True
